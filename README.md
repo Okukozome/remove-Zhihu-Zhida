@@ -1,6 +1,6 @@
 # 简介
 
-替换知乎网页端的回答和文章中，类似 [知乎直答✦](https://zhida.zhihu.com/) 的关键词为普通搜索超链接。
+替换知乎网页端的回答和文章中，类似 [知乎直答✦](https://github.com/Okukozome/fuck-Zhihu-Zhida) 的关键词为普通搜索超链接。
 
 # 安装说明
 
