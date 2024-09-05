@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         屏蔽知乎直答标识
+// @name         屏蔽知乎直答标记
 // @namespace    https://github.com/Okukozome/fuck-Zhihu-Zhida
 // @version      1.0
 // @description  替换知乎网页端回答和文章中类似"知乎直答✦"的关键词为普通搜索超链接，并去掉✦角标。关联：关闭知乎直达。
